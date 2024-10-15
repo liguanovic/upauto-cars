@@ -1,0 +1,71 @@
+{
+    "Contact": [
+        {
+                "Contact": [
+                    {
+                        "text": "Vous cherchez une nouvelle voiture ? Notre équipe est à votre disposition pour répondre à vos questions et vous aider à trouver la voiture parfaite pour vos besoins. N'hésitez pas à nous contacter pour discuter de nos options et obtenir des informations sur nos tarifs compétitifs et nos offres spéciales.\nSi vous avez une recherche de voiture particulière, nous sommes égalements présents pour faire une recherche personalisée . Contactez-nous dès aujourd'hui pour en savoir plus sur nos voitures en stock ou pour trouver la voiture de vos rêves ."
+                    }
+                ]
+            }
+        
+    ],
+
+    "About": [  
+        {
+            "text": "Nous sommes experts dans l'importation et l'exportation de véhicules et de pièces automobiles à l'échelle mondiale. Grâce à notre vaste réseau international, nous offrons des solutions logistiques fiables et efficaces pour le transport de voitures, camions, motos, et pièces détachées. Que vous soyez un particulier ou une entreprise, nous assurons la gestion complète de vos besoins en matière de transport et de commerce de véhicules, avec un service client dédié et une expertise reconnue dans le secteur automobile..",
+            "Expertise": "Experts dans l'importation, l'exportation, la vente de voitures et de pièces automobiles, nous sommes votre partenaire de confiance pour tous vos besoins en véhicules et pièces détachées. Notre équipe de professionnels garantit une livraison rapide et fiable de pièces de qualité pour toutes les marques et modèles de véhicules.",
+            "Solutions": "Nos services d'importation et d'exportation de véhicules sont conçus pour offrir des solutions flexibles adaptées à vos besoins spécifiques. Nous proposons des options variées pour différents types de véhicules, assurant une gestion complète de vos besoins, et une conformité optimale aux normes internationales de transport. Notre équipe est spécialisé dans le dédouanement et l'homologation (passage à la DREAL et modificaation des pièces selon les normes européennes).",
+            "Communication": "Nous sommes convaincus que la communication est la clé de la réussite. C'est pourquoi nous sommes toujours à l'écoute et prêts à vous aider, quel que soit votre besoin. Notre équipe de professionnels passionnés est là pour vous accompagner, vous guider et trouver des solutions personnalisées pour vous.",
+            "Reactivite": "Nos services d'import/export de véhicules sont conçus pour être extrêmement réactifs et adaptables aux évolutions du marché. Avec des outils de gestion avancés, nous répondons rapidement aux demandes urgentes et nous nous adaptons efficacement aux nouvelles exigences du secteur.",
+            "International": "Notre entreprise est fière d'avoir une présence mondiale, opérant sur tous les continents. Nous sommes particulièrement actifs en Europe, en Asie et au Moyen-Orient, offrant des solutions adaptées aux besoins locaux tout en maintenant des standards internationaux de qualité. Notre expertise et notre réseau mondial nous permettent de répondre efficacement aux défis de chaque marché.",
+            "Qualite": "Chez Upauto-Global, nous offrons des véhicules et pièces automobiles de haute qualité, garantis par des contrôles rigoureux et des partenariats avec des fabricants réputés. Chaque produit est soumis à des tests approfondis pour garantir une performance optimale, une sécurité accrue, et une durabilité exceptionnelle. Faites confiance à notre expertise pour des solutions fiables et éprouvées." 
+        }
+
+    ],
+
+    "ServiceItem": [
+        {
+    "number": "01",
+    "title": "IMPORT/EXPORT DE VÉHICULES",
+    "description": "Notre expertise dans l'importation et l'exportation de véhicules est à votre disposition pour vous aider à trouver la voiture parfait pour vos besoins. Nous accompagnons les importations et les exportations de voitures et de véhicules partout dans le monde, (dédouanement,homologation, passage à la DREAL et modificaation des pièces selon les normes européennes)... ",
+    "pictures": [
+        { "src": "/assets/pictures/service/voiture.webp", "alt": "BMW blanche" },
+        { "src": "/assets/pictures/service/importcars.jpg", "alt": "Un camion important des voitures" },
+        { "src": "/assets/pictures/service/brabus.jpg", "alt": "Mercedes Brabus G Rocket gris" },
+        { "src": "/assets/pictures/service/lamborghini-urus.webp", "alt": "Lamborghini Urus orange"}
+                ],
+
+    "link": "/#",
+    "linkTitle": "Upauto-Global > Import/Export de véhicules"
+},
+{
+"number": "02",
+"title": "PIÈCES AUTOMOBILES DE QUALITÉ POUR VOS OPTIQUES",
+"description": "Nous proposons une large gamme de pièces automobiles de qualité pour vos optiques, notamment des phares, des ballasts, des modules, des ampoules LED et des xenons. Nous effectuons également les codages nécessaires pour assurer la compatibilité et le bon fonctionnement de vos pièces. Grâce à notre expertise, vous pouvez bénéficier d'une expédition mondiale rapide et fiable. Notre objectif est de vous fournir les meilleures pièces automobiles pour vos optiques, pour que vous puissiez rouler en toute sécurité et avec confiance. Contactez-nous pour en savoir plus et pour placer votre commande.",
+"pictures": [
+    { "src": "/assets/pictures/service/IMG_1372.jpg", "alt": "Phare Xenon" },
+    { "src": "/assets/pictures/service/headlights1.webp", "alt": "Phare LED" },
+    { "src": "/assets/pictures/service/led.jpeg", "alt": "Optique de phares de voiture" },
+    { "src": "/assets/pictures/service/10660036.webp", "alt": "Phare avant d'une voiture" }
+            ],
+
+ "link": "http://upauto-global.com",
+    "linkTitle": "Upauto-Global > Pièces automobiles"
+},
+{
+"number": "03",
+"title": "DIAGNOSTIQUE DE VÉHICULES",
+"description": "Nous effectuons un service de diagnostic de véhicules complet et précis pour vous aider à prendre des décisions éclairées. Que vous soyez sur le point d'acheter un véhicule d'occasion ou que vous rencontriez des problèmes avec votre véhicule actuel, notre diagnostic vous permettra de connaître l'état réel de votre véhicule. Notre équipe de professionnels utilise des outils de diagnostic de pointe pour évaluer l'état de votre véhicule et vous fournir un rapport détaillé. Contactez-nous pour en savoir plus sur notre service de diagnostic de véhicules et pour planifier un rendez-vous.",
+"pictures": [
+    { "src": "/assets/pictures/service/611930899.jpg", "alt": "Diagnostique de voiture" },
+    { "src": "/assets/pictures/service/diagnostic.jpg", "alt": "Un diagnostique de véhicule avant une vente" },
+    { "src": "/assets/pictures/service/20358.jpg", "alt": "Un apercu d'un diagnostique de véhicule" },
+    { "src": "/assets/pictures/service/47738.webp", "alt": "Une societe effectuant un diagnostique de véhicule" }
+            ],
+
+"link": "/error",
+"linkTitle": "Upauto-Global > Diagnostique de véhicules"
+
+}
+    ]
+}

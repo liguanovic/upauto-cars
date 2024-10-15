@@ -1,0 +1,135 @@
+[id="car-details"] {
+    background-color: #fff;
+    color: #333;
+    padding: 20px;
+    max-width: 800px;
+    margin: 5vw auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+    .car-carousel {
+        display: flex;
+        overflow: hidden;
+        position: relative;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+
+    .car-image {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        object-fit: cover;
+    }
+
+    .car-info {
+        padding: 20px;
+    }
+
+    .fixed-text {
+        font-weight: 500;
+    }
+
+    .car-title {
+        font-size: 2rem;
+        color: #FF6060;
+        margin: 0;
+    }
+
+    .car-reference,
+    .car-price,
+    .car-mileage,
+    .car-model,
+    .car-brand,
+    .car-year,
+    .car-contact,
+    .car-description {
+        font-size: 1rem;
+        margin: 10px 0;
+    }
+
+    .car-price {
+        color: #FF6060;
+        font-weight: bold;
+    }
+
+    .fa,
+    .fab {
+        font-size: 1.5rem;
+        cursor: pointer;
+        margin-right: 20px;
+    }
+
+    .fa-whatsapp {
+        font-weight: bold;
+        color: #25D366;
+    }
+
+    .contact-icons {
+        margin: 0 10px;
+    }
+
+    .car-description {
+        margin-top: 20px;
+        color: #555;
+    }
+
+    @media (max-width: 1200px) {
+        [id="car-details"] {
+            margin: 4vw 4vw;
+            padding: 15px;
+        }
+
+        .car-title {
+            font-size: 1.75rem;
+        }
+
+        .car-reference,
+        .car-price,
+        .car-mileage,
+        .car-model,
+        .car-brand,
+        .car-year,
+        .car-description {
+            font-size: 0.9rem;
+        }
+
+        .car-description {
+            margin-top: 15px;
+        }
+    }
+
+    @media (max-width: 768px) {
+        [id="car-details"] {
+            margin: 3vw auto;
+            padding: 10px;
+        }
+
+        .car-info {
+            padding: 10px;
+        }
+
+        .car-title {
+            font-size: 1.5rem;
+        }
+
+        .car-reference,
+        .car-price,
+        .car-mileage,
+        .car-model,
+        .car-brand,
+        .car-year,
+        .car-description {
+            font-size: 0.85rem;
+        }
+
+        .fa,
+        .fab {
+            font-size: 1.25rem;
+        }
+
+        .car-description {
+            margin-top: 10px;
+        }
+    }
+}

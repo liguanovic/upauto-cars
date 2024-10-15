@@ -1,0 +1,35 @@
+#services-page {
+    padding: 20px 0;
+}
+
+.services-header {
+    text-align: center;
+}
+
+section article {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.services-header h1 {
+    font-weight: 700;
+    color: #FF6060;
+    font-size: 45px;
+    margin: 0 0 15px;
+    border-left: 5px solid #fc5356;
+    padding-left: 15px;
+}
+
+.services-header p {
+    margin: 20px 40px;
+}
+
+@media (max-width: 798px) {
+    #services-page {
+        padding-top: 120px;
+    }
+
+    .services-header h1 {
+        font-size: 30px;
+    }
+}

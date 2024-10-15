@@ -1,0 +1,33 @@
+[id="error"] {
+    text-align: center;
+}
+
+[id="error"] h1 {
+    margin: 40px 0;
+    font-size: 10rem;
+    color: #FF6060;
+}
+
+[id="error"] p {
+    font-size: 2rem;
+    color: #FF6060;
+}
+
+[id="error"] a {
+    display: block;
+    margin: 100px;
+    text-decoration: underline;
+    color: black;
+}
+
+@media (max-width: 768px) {
+    [id="error"] h1 {
+        font-size: 8rem;
+    }
+
+    [id="error"] p {
+        font-size: 1.5rem;
+        width: 70%;
+        margin: 0 auto;
+    }
+}

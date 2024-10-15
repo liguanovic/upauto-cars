@@ -1,0 +1,74 @@
+.carousel {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    margin: 0;
+}
+
+.carousel img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.carousel-navigation {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transform: translateY(-50%);
+    padding: 0 10px;
+}
+
+.fa-chevron-left,
+.fa-chevron-right {
+    font-size: 1.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+.carousel p {
+    font-size: 1rem;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    top: 250px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Media queries pour les tailles d'écran plus petites */
+@media (max-width: 1200px) {
+    .carousel {
+        /* Assure que le carrousel s'adapte à la largeur de l'écran */
+        width: 100%;
+        /* Ajuste la largeur pour qu'elle s'adapte mieux aux écrans plus petits */
+        height: auto;
+        /* Maintient la hauteur proportionnelle */
+    }
+
+    .carousel p {
+        font-size: 0.9rem;
+        /* Réduit la taille du texte */
+        bottom: 15px;
+        /* Ajuste la position du texte */
+    }
+}
+
+@media (max-width: 768px) {
+    .carousel {
+        width: 100%;
+        height: 50%;
+    }
+
+    .carousel p {
+        font-size: 0.8rem;
+        /* Réduit la taille du texte */
+        bottom: 10px;
+        /* Ajuste la position du texte */
+    }
+}
