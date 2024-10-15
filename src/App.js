@@ -13,7 +13,7 @@ import './index.css';
 function App() {
   return (
     <React.StrictMode>
-      <BrowserRouter>
+      <BrowserRouter basename='/upauto-cars'>
         <Nav />
 
         <Routes>
