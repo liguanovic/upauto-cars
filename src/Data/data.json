@@ -43,7 +43,7 @@
 "title": "PIÈCES AUTOMOBILES DE QUALITÉ POUR VOS OPTIQUES",
 "description": "Nous proposons une large gamme de pièces automobiles de qualité pour vos optiques, notamment des phares, des ballasts, des modules, des ampoules LED et des xenons. Nous effectuons également les codages nécessaires pour assurer la compatibilité et le bon fonctionnement de vos pièces. Grâce à notre expertise, vous pouvez bénéficier d'une expédition mondiale rapide et fiable. Notre objectif est de vous fournir les meilleures pièces automobiles pour vos optiques, pour que vous puissiez rouler en toute sécurité et avec confiance. Contactez-nous pour en savoir plus et pour placer votre commande.",
 "pictures": [
-    { "src": "assets/pictures/service/IMG_1372.jpg", "alt": "Phare Xenon" },
+    { "src": "assets/pictures/service/img_1372.jpg", "alt": "Phare Xenon" },
     { "src": "assets/pictures/service/headlights1.webp", "alt": "Phare LED" },
     { "src": "assets/pictures/service/led.jpeg", "alt": "Optique de phares de voiture" },
     { "src": "assets/pictures/service/10660036.webp", "alt": "Phare avant d'une voiture" }
