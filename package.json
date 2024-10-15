@@ -1,6 +1,7 @@
 {
   "name": "mon-site-react",
-  "homepage": "https://upauto-cars.github.io/",
+  "homepage": "https://liguanovic.github.io/upauto-cars/",
+  "repository": "github:liguanovic/upauto-cars",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
