@@ -29,10 +29,10 @@
     "title": "IMPORT/EXPORT DE VÉHICULES",
     "description": "Notre expertise dans l'importation et l'exportation de véhicules est à votre disposition pour vous aider à trouver la voiture parfait pour vos besoins. Nous accompagnons les importations et les exportations de voitures et de véhicules partout dans le monde, (dédouanement,homologation, passage à la DREAL et modificaation des pièces selon les normes européennes)... ",
     "pictures": [
-        { "src": "/assets/pictures/service/voiture.webp", "alt": "BMW blanche" },
-        { "src": "/assets/pictures/service/importcars.jpg", "alt": "Un camion important des voitures" },
-        { "src": "/assets/pictures/service/brabus.jpg", "alt": "Mercedes Brabus G Rocket gris" },
-        { "src": "/assets/pictures/service/lamborghini-urus.webp", "alt": "Lamborghini Urus orange"}
+        { "src": "assets/pictures/service/voiture.webp", "alt": "BMW blanche" },
+        { "src": "assets/pictures/service/importcars.jpg", "alt": "Un camion important des voitures" },
+        { "src": "assets/pictures/service/brabus.jpg", "alt": "Mercedes Brabus G Rocket gris" },
+        { "src": "assets/pictures/service/lamborghini-urus.webp", "alt": "Lamborghini Urus orange"}
                 ],
 
     "link": "/#",
@@ -43,10 +43,10 @@
 "title": "PIÈCES AUTOMOBILES DE QUALITÉ POUR VOS OPTIQUES",
 "description": "Nous proposons une large gamme de pièces automobiles de qualité pour vos optiques, notamment des phares, des ballasts, des modules, des ampoules LED et des xenons. Nous effectuons également les codages nécessaires pour assurer la compatibilité et le bon fonctionnement de vos pièces. Grâce à notre expertise, vous pouvez bénéficier d'une expédition mondiale rapide et fiable. Notre objectif est de vous fournir les meilleures pièces automobiles pour vos optiques, pour que vous puissiez rouler en toute sécurité et avec confiance. Contactez-nous pour en savoir plus et pour placer votre commande.",
 "pictures": [
-    { "src": "/assets/pictures/service/IMG_1372.jpg", "alt": "Phare Xenon" },
-    { "src": "/assets/pictures/service/headlights1.webp", "alt": "Phare LED" },
-    { "src": "/assets/pictures/service/led.jpeg", "alt": "Optique de phares de voiture" },
-    { "src": "/assets/pictures/service/10660036.webp", "alt": "Phare avant d'une voiture" }
+    { "src": "assets/pictures/service/IMG_1372.jpg", "alt": "Phare Xenon" },
+    { "src": "assets/pictures/service/headlights1.webp", "alt": "Phare LED" },
+    { "src": "assets/pictures/service/led.jpeg", "alt": "Optique de phares de voiture" },
+    { "src": "assets/pictures/service/10660036.webp", "alt": "Phare avant d'une voiture" }
             ],
 
  "link": "http://upauto-global.com",
@@ -57,10 +57,10 @@
 "title": "DIAGNOSTIQUE DE VÉHICULES",
 "description": "Nous effectuons un service de diagnostic de véhicules complet et précis pour vous aider à prendre des décisions éclairées. Que vous soyez sur le point d'acheter un véhicule d'occasion ou que vous rencontriez des problèmes avec votre véhicule actuel, notre diagnostic vous permettra de connaître l'état réel de votre véhicule. Notre équipe de professionnels utilise des outils de diagnostic de pointe pour évaluer l'état de votre véhicule et vous fournir un rapport détaillé. Contactez-nous pour en savoir plus sur notre service de diagnostic de véhicules et pour planifier un rendez-vous.",
 "pictures": [
-    { "src": "/assets/pictures/service/611930899.jpg", "alt": "Diagnostique de voiture" },
-    { "src": "/assets/pictures/service/diagnostic.jpg", "alt": "Un diagnostique de véhicule avant une vente" },
-    { "src": "/assets/pictures/service/20358.jpg", "alt": "Un apercu d'un diagnostique de véhicule" },
-    { "src": "/assets/pictures/service/47738.webp", "alt": "Une societe effectuant un diagnostique de véhicule" }
+    { "src": "assets/pictures/service/611930899.jpg", "alt": "Diagnostique de voiture" },
+    { "src": "assets/pictures/service/diagnostic.jpg", "alt": "Un diagnostique de véhicule avant une vente" },
+    { "src": "assets/pictures/service/20358.jpg", "alt": "Un apercu d'un diagnostique de véhicule" },
+    { "src": "assets/pictures/service/47738.webp", "alt": "Une societe effectuant un diagnostique de véhicule" }
             ],
 
 "link": "/error",

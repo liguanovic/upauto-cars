@@ -4,12 +4,12 @@
         "id": "c67ab8a7",
         "reference": "abc123",
         "title": "Bmw serie 3",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -24,12 +24,12 @@
         "id": "c67ab8a8",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -43,12 +43,12 @@
         "id": "c67ab8a9",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -62,12 +62,12 @@
         "id": "c67ab8a10",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -81,12 +81,12 @@
         "id": "c67acascascb8a11",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -100,12 +100,12 @@
         "id": "c67abvdsfvasdvf8a7",
         "reference": "abc123",
         "title": "Bmw serie 3",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -120,12 +120,12 @@
         "id": "c67avdsvdavfdb8a8",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -139,12 +139,12 @@
         "id": "c67avfdvsb8a9",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -158,12 +158,12 @@
         "id": "c67abvsdvds8a10",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -177,12 +177,12 @@
         "id": "c67ab8dsvfdsa11",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -196,12 +196,12 @@
         "id": "c67acscsb8a7",
         "reference": "abc123",
         "title": "Bmw serie 3",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -216,12 +216,12 @@
         "id": "c67322ab8a8",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -235,12 +235,12 @@
         "id": "c67ab8a329",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -254,12 +254,12 @@
         "id": "c67ab8a1032",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
@@ -273,12 +273,12 @@
         "id": "c67ab8a113",
         "reference": "abc124",
         "title": "Bmw serie 4",
-        "cover": "/assets/pictures/cars/abc123/voiture.webp",
+        "cover": "assets/pictures/cars/abc123/voiture.webp",
         "pictures": [
-          "/assets/pictures/cars/abc123/voiture.webp",
-          "/assets/pictures/cars/abc123/vehicule2.jpeg",
-         "/assets/pictures/cars/abc123/vehicule3.webp",
-          "/assets/pictures/cars/abc123/vehicule4.webp"
+          "assets/pictures/cars/abc123/voiture.webp",
+          "assets/pictures/cars/abc123/vehicule2.jpeg",
+         "assets/pictures/cars/abc123/vehicule3.webp",
+          "assets/pictures/cars/abc123/vehicule4.webp"
         ],
         "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "price": "20 000 €",
