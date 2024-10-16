@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom';
 import logoMini from '../../assets/pictures/logo_mini.png';
 
 import './footer.css';
@@ -17,9 +18,8 @@ const Footer = () => {
                 <section className="informations">
                     <h2>Informations</h2>
                     <ul>
-                        <li><a href="/#">Termes & Conditions</a></li>
-                        <li><a href="/#">Contact</a></li>
-
+                        <li><NavLink to="/#">Termes & Conditions</NavLink></li>
+                        <li><NavLink to="/contact">Contact</NavLink></li>
                     </ul>
                     <ul className="footer-social">
                         <li><a href="https://www.instagram.com/upautoglobal" rel="noopener noreferrer" target="_blank" aria-label="Instagram"><i className="fab fa-instagram"></i></a></li>

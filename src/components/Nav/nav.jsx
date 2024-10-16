@@ -20,7 +20,7 @@ function Nav() {
                 <li><NavLink to="/service" >Service</NavLink></li>
                 <li><NavLink to="/contact" >Contact</NavLink></li>
                 <li>
-                    <a href="https://www.instagram.com" rel="noopener noreferrer" target="_blank" className="social-link">
+                    <a href="https://www.instagram.com/upautoglobal" rel="noopener noreferrer" target="_blank" aria-label="Instagram" className="social-link">
                         <img src={logoInstagram} alt="Logo Instagram" width="20" height="20" />
                     </a>
                 </li>

@@ -15,7 +15,8 @@ const Carousel = ({ pictures, alt }) => {
 
     return (
         <figure className='carousel'>
-            <img src={pictures[index].replace(/^\/+/, '')} alt={`${alt} ${index + 1}/${pictures.length}`} />
+            <img src={pictures[index]} alt={`${alt} ${index + 1}/${pictures.length}`} />
+
             {pictures.length > 1 && (
                 <nav className='carousel-navigation'>
                     <i className='fas fa-chevron-left' alt='Arrow left' onClick={prev} />
