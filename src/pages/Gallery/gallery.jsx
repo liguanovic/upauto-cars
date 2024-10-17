@@ -31,7 +31,7 @@ const Gallery = () => {
         <main>
             <article id="car-details">
                 <Carousel
-                    pictures={car.pictures.map(picture => `${process.env.PUBLIC_URL}/gallery/${picture}`)}
+                    pictures={car.pictures.map(picture => `${process.env.PUBLIC_URL}/${picture}`)}
                     alt={car.title}
                 />
 
