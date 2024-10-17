@@ -6,7 +6,7 @@ const Card = ({ id, title, price, year, cover, kilometres, isNew }) => {
         <Link to={`/gallery/${id}`} className="card">
             <header className="card-top">
                 <img
-                    src={cover}
+                    src={`${process.env.PUBLIC_URL}/${cover}`}
                     alt={title}
                     className="card-img"
                 />

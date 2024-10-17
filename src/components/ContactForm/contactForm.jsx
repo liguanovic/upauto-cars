@@ -59,14 +59,14 @@ const ContactForm = () => {
             <form onSubmit={handleSubmit}>
                 <input type="hidden" name="access_key" value="3ca9ecf0-6af2-4772-ae41-b2367912f755" />
                 <fieldset>
-                    <input type="text" name="first_name" id="first_name" aria-label="Prénom" required />
-                    <input type="text" name="last_name" id="last_name" aria-label="Nom" required />
+                    <input type="text" name="first_name" id="first_name" aria-label="Prénom" placeholder='nom' required />
+                    <input type="text" name="last_name" id="last_name" aria-label="Nom" placeholder='prénom' required />
                 </fieldset>
                 <fieldset>
-                    <input type="email" name="email" id="email" aria-label="E-mail" required />
-                    <input type="text" name="phone" id="phone" aria-label="Téléphone" required />
+                    <input type="email" name="email" id="email" aria-label="E-mail" placeholder='email' required />
+                    <input type="text" name="phone" id="phone" aria-label="Téléphone" placeholder='téléphone' required />
                 </fieldset>
-                <textarea name="message" id="message" rows="5" aria-label="Message" className="form-control" required></textarea>
+                <textarea name="message" id="message" rows="5" aria-label="Message" placeholder='message' className="form-control" required></textarea>
                 {emailError && <p className="error-message">{emailError}</p>}
                 {phoneError && <p className="error-message">{phoneError}</p>}
                 {submitStatus && <p className="submit-status">{submitStatus}</p>}

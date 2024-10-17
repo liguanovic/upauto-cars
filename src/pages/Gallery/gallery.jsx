@@ -30,7 +30,10 @@ const Gallery = () => {
     return (
         <main>
             <article id="car-details">
-                <Carousel pictures={car.pictures} alt={car.title} />
+                <Carousel
+                    pictures={car.pictures.map(picture => `${process.env.PUBLIC_URL}${picture}`)}
+                    alt={car.title}
+                />
 
                 <section className="car-info">
                     <p className="car-reference">
