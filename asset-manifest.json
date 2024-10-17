@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/upauto-cars/static/css/main.74464d63.css",
-    "main.js": "/upauto-cars/static/js/main.415317b5.js",
+    "main.js": "/upauto-cars/static/js/main.c8ea0be8.js",
     "static/js/453.d2e7a920.chunk.js": "/upauto-cars/static/js/453.d2e7a920.chunk.js",
     "static/media/banner.jpg": "/upauto-cars/static/media/banner.9a84ff24a1f891700705.jpg",
     "static/media/contact.png": "/upauto-cars/static/media/contact.77b0f6ea27f0b4a0048e.png",
     "static/media/logo_mini.png": "/upauto-cars/static/media/logo_mini.84411a8fae386ca67f6a.png",
     "index.html": "/upauto-cars/index.html",
     "main.74464d63.css.map": "/upauto-cars/static/css/main.74464d63.css.map",
-    "main.415317b5.js.map": "/upauto-cars/static/js/main.415317b5.js.map",
+    "main.c8ea0be8.js.map": "/upauto-cars/static/js/main.c8ea0be8.js.map",
     "453.d2e7a920.chunk.js.map": "/upauto-cars/static/js/453.d2e7a920.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74464d63.css",
-    "static/js/main.415317b5.js"
+    "static/js/main.c8ea0be8.js"
   ]
 }
