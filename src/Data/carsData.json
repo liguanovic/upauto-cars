@@ -102,7 +102,7 @@
       "title": "Bmw serie 3",
       "cover": "assets/pictures/cars/abc123/voiture.webp",
       "pictures": [
-        "https://liguanovic.github.io/upauto-cars/gallery/assets/pictures/cars/abc123/voiture.webp",
+        "assets/pictures/cars/abc123/voiture.webp",
         "assets/pictures/cars/abc123/vehicule2.jpeg",
        "assets/pictures/cars/abc123/vehicule3.webp",
         "assets/pictures/cars/abc123/vehicule4.webp"

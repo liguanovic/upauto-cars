@@ -103,7 +103,7 @@
     [id="home"] .home-description {
         font-size: 1.2rem;
         text-align: center;
-        margin: 20px 0 0;
+        margin: 20px 0 30px;
     }
 
     [id="home"] li {
